@@ -6,7 +6,7 @@
 
 # Author: John Doe
 # Additional Authors:
-# <YOUR_NAME>
+# ngcthinh17
 
 # Input:
 # p, principal amount
